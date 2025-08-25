@@ -57,7 +57,7 @@ const students: Student[] = [
     new Course("Programming", 3.9),
     new Course("History", 3.5),
   ]),
-  new Student(3, "Amm", [
+  new Student(3, "แอม", [
     new Course("Math", 3.7),
     new Course("English", 3.8),
     new Course("Programming", 3.9),
